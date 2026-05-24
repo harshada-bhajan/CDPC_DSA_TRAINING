@@ -1,0 +1,1 @@
+This repository contains Python programs on Hashing Techniques and Regular Expressions (Regex), including Hash Tables, Linear Probing, Two Sum Problem, Pattern Matching, Quantifiers, and Mobile Number Validation. Useful for learning Data Structures and Regex concepts with practical examples.
